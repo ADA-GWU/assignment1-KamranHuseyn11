@@ -1,16 +1,1 @@
-Hi, This is Kamran Huseynov's repository for assignment1 tasks from Intro to Computer Vision Course
-All the code can be run from assignment1.ipynb notebook file. There are some explanations for the code and 7 task sections respective to assignment_1's requirements.
 
-4 images are taken for first task: 
-image_day - image taken under daylight at noon
-image_night - image taken under daylight at evening
-image_bright - image taken under bright fluorescent light
-image_dim - image taken under dim fluorescent light.
-
-Besides these 4 images there are several folders corresponding to task parts. 
-
-To run the code you can use environment.yml file to create conda environment.
-
-|| conda env create -f environment.yml || in your terminal which will create the conda environment named "kh_hw1env". 
-
-Then you can easily activate the environment go to the notebook file and run it.

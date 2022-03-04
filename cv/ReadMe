@@ -2,6 +2,9 @@
 Hi, This is Kamran Huseynov's repository for assignment1 tasks from Intro to Computer Vision Course
 All the code can be run from assignment1.ipynb notebook file. There are some explanations for the code and 7 task sections respective to assignment_1's requirements.
 
+All the relevant items for task 2 is in the "./report/" directory including report.pdf and metadata.xlsx files
+
+
 4 images are taken for first task: 
 image_day - image taken under daylight at noon
 image_night - image taken under daylight at evening
